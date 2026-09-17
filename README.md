@@ -144,6 +144,6 @@ It checks basic student information and verifies that the Student Manager can su
 
 ## Author:-
 
-Aditya Das
+Aryan Kumar
 
 ---
